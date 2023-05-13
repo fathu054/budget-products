@@ -22,12 +22,6 @@ h6{
 p{
   color: #fff;
 }
-.img-fluid {
-  height: 20em;
-  width: 20em;
-  border: 5px solid #790653;
-  border-style:outset;
-}
 p{
     color: white;
 }
@@ -42,6 +36,9 @@ header{
 .img-main{
   height: 12em;
   width: 15em;
+}
+.navbar-toggler{
+    color: #fff;
 }
 .img-div{
     height:390px;
